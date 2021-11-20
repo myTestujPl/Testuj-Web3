@@ -1,4 +1,4 @@
-package Zajecia.PracaDomowa.Operatory;
+package PracaDomowa.Operatory;
 
 public class Cwiczenie1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Zajecia.PracaDomowa.Operatory;
+package PracaDomowa.Operatory;
 
 import java.util.Scanner;
 

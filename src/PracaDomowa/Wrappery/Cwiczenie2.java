@@ -1,4 +1,4 @@
-package Zajecia.PracaDomowa.Wrappery;
+package PracaDomowa.Wrappery;
 
 import java.util.Scanner;
 

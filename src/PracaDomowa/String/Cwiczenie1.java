@@ -1,4 +1,4 @@
-package Zajecia.PracaDomowa.String;
+package PracaDomowa.String;
 
 public class Cwiczenie1 {
     public static void main(String[] args) {
